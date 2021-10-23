@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hello! 👋
 
+My name is Max (he/him). I am a web developer, machine learning engineer, and musician living in Brooklyn, New York. I work with Python, Javascript, React, NodeJS, C++, Rust, and other programming languages and frameworks. 
+
+- 🔭  Currently working for YibanChen creating decentralized infrastructure built on the Polkadot network
+
+- 🏫  Graduated December 2020 with a degree in CS from Reed College in Portland, Oregon
+
+- 🌱  Currently learning Scala and expanding my Rust knowledge
+
+- 💻  Looking to become more active in the open source community; please feel free to contact me if you need help with your cool open-source project!
 <!--
 **maxrosenb/maxrosenb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
