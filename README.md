@@ -8,7 +8,7 @@ My name is Max (he/him). I am a web developer, machine learning engineer, and mu
 
 - 🌱  Currently learning Scala and expanding my Rust knowledge
 
-- 💻  Looking to become more active in the open source community; please feel free to contact me if you need help with your cool open-source project!
+- 💻  Looking to become more active in the open source community; feel free to contact me if you need help with cool open-source project!
 <!--
 **maxrosenb/maxrosenb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
