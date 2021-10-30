@@ -1,6 +1,6 @@
-### Hello! 👋
 
-My name is Max (he/him). I am a web developer, machine learning engineer, and musician living in Brooklyn, New York. I work with Python, Javascript, React, NodeJS, C++, Rust, and other programming languages and frameworks. 
+
+Hello! My name is Max (he/him). I am a web developer, machine learning engineer, and musician living in Brooklyn, New York. I work with Python, Javascript, React, NodeJS, C++, Rust, and other programming languages and frameworks. 
 
 - 🔭  Currently working for [YibanChen](https://dev.yibanchen.com) building decentralized infrastructure on the Polkadot network
 
