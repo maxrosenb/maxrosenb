@@ -4,7 +4,7 @@ Hello! My name is Max (he/him). I am a software engineer, machine learning devel
 
 - 🏫  Graduated December 2020 with a degree in CS from Reed College in Portland, Oregon
 
-- 🌱  Currently learning Scala and expanding my Rust knowledge
+- 🌱  Currently learning Scala and expanding my knowledge of Rust
 
 - 💻  Looking to become more active in the open source community; feel free to contact me if you need help with cool open-source project!
 <!--
